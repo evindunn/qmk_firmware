@@ -1,0 +1,46 @@
+{
+    "keyboard_name": "hbb1",
+    "manufacturer": "Evin Dunn",
+    "url": "https://github.com/evindunn",
+    "maintainer": "evindunn",
+    "usb": {
+        "vid": "0x73C1",
+        "pid": "0x4549",
+        "device_version": "0.0.1"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label":"ESC",   "x":0, "y":0},
+                {"label":"KC_F1", "x":1, "y":0},
+                {"label":"KC_F2", "x":2, "y":0},
+                {"label":"KC_F3", "x":3, "y":0},
+                {"label":"KC_F4", "x":4, "y":0},
+
+                {"label":"KC_KP_MINUS", "x":0, "y":1},
+                {"label":"KC_F5",       "x":1, "y":1},
+                {"label":"KC_F6",       "x":2, "y":1},
+                {"label":"KC_F7",       "x":3, "y":1},
+                {"label":"KC_F8",       "x":4, "y":1},
+
+                {"label":"KC_KP_PLUS", "x":0, "y":2},
+                {"label":"KC_F9",      "x":1, "y":2},
+                {"label":"KC_F10",     "x":2, "y":2},
+                {"label":"KC_F11",     "x":3, "y":2},
+                {"label":"KC_F12",     "x":4, "y":2},
+                
+                {"label":"RGB_MOD",    "x":0, "y":3},
+                {"label":"RGB_SPI",    "x":1, "y":3},
+                {"label":"KC_INSERT",  "x":2, "y":3},
+                {"label":"KC_HOME",    "x":3, "y":3},
+                {"label":"KC_PAGE_UP", "x":4, "y":3},
+                
+                {"label":"RGB_RMOD",     "x":0, "y":4},
+                {"label":"RGB_SPD",      "x":1, "y":4},
+                {"label":"KC_DELETE",    "x":2, "y":4},
+                {"label":"KC_END",       "x":3, "y":4},
+                {"label":"KC_PAGE_DOWN", "x":4, "y":4}
+            ]
+        }
+    }
+}
